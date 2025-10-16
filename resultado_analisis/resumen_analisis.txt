@@ -2,12 +2,12 @@
 RESUMEN DEL ANÁLISIS EXPLORATORIO DE DATOS
 ================================================================================
 
-Fecha: 2025-10-16 19:16:56
+Fecha: 2025-10-16 19:25:09
 
 1. INFORMACIÓN GENERAL
    - Filas: 21210
    - Columnas originales: 13
-   - Columnas después de transformación: 23
+   - Columnas después de transformación: 21
 
 2. TIPOS DE VARIABLES
    - Variables numéricas: 9
@@ -15,10 +15,8 @@ Fecha: 2025-10-16 19:16:56
    - Variables de fecha: 0
 
 3. NUEVAS CARACTERÍSTICAS CREADAS
-   - Total: 10
-   - SEXO_bin
+   - Total: 8
    - ESTANCIA_DÍAS_bin
-   - NIVEL_SEVERIDAD_APR_bin
    - Diagnóstico Principal_encoded
    - Diagnóstico 2_encoded
    - Diagnóstico 3_encoded

@@ -2,38 +2,27 @@
 RESUMEN DEL ANÁLISIS EXPLORATORIO DE DATOS
 ================================================================================
 
-Fecha: 2025-10-16 17:49:32
+Fecha: 2025-10-16 19:16:56
 
 1. INFORMACIÓN GENERAL
    - Filas: 21210
-   - Columnas originales: 112
-   - Columnas después de transformación: 336
+   - Columnas originales: 13
+   - Columnas después de transformación: 23
 
 2. TIPOS DE VARIABLES
-   - Variables numéricas: 18
-   - Variables categóricas: 76
-   - Variables de fecha: 18
+   - Variables numéricas: 9
+   - Variables categóricas: 4
+   - Variables de fecha: 0
 
 3. NUEVAS CARACTERÍSTICAS CREADAS
-   - Total: 224
-   - FECHA_DE_NACIMIENTO_año
-   - FECHA_DE_NACIMIENTO_mes
-   - FECHA_DE_NACIMIENTO_dia
-   - FECHA_DE_NACIMIENTO_dia_semana
-   - FECHA_DE_NACIMIENTO_trimestre
-   - CCAA_RESIDENCIA_año
-   - CCAA_RESIDENCIA_mes
-   - CCAA_RESIDENCIA_dia
-   - CCAA_RESIDENCIA_dia_semana
-   - CCAA_RESIDENCIA_trimestre
-   - FECHA_DE_INGRESO_año
-   - FECHA_DE_INGRESO_mes
-   - FECHA_DE_INGRESO_dia
-   - FECHA_DE_INGRESO_dia_semana
-   - FECHA_DE_INGRESO_trimestre
-   - FECHA_DE_FIN_CONTACTO_año
-   - FECHA_DE_FIN_CONTACTO_mes
-   - FECHA_DE_FIN_CONTACTO_dia
-   - FECHA_DE_FIN_CONTACTO_dia_semana
-   - FECHA_DE_FIN_CONTACTO_trimestre
-   ... y 204 más
+   - Total: 10
+   - SEXO_bin
+   - ESTANCIA_DÍAS_bin
+   - NIVEL_SEVERIDAD_APR_bin
+   - Diagnóstico Principal_encoded
+   - Diagnóstico 2_encoded
+   - Diagnóstico 3_encoded
+   - COMUNIDAD_AUTÓNOMA_LA RIOJA
+   - SEXO_x_ESTANCIA_DÍAS
+   - SEXO_div_ESTANCIA_DÍAS
+   - SEXO_mean_by_Diagnóstico Principal

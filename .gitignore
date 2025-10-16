@@ -3,7 +3,7 @@ venv/
 .env/
 .venv/
 .python-version
-WALLET
+WALLET/
 
 # Archivos temporales
 __pycache__/

@@ -1,0 +1,21 @@
+# Ignorar entorno virtual
+venv/
+.env/
+.venv/
+.python-version
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de Jupyter temporales
+.ipynb_checkpoints/
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

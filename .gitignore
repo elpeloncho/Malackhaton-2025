@@ -4,6 +4,7 @@ venv/
 .venv/
 .python-version
 
+
 # Archivos temporales
 __pycache__/
 *.pyc

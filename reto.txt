@@ -1,0 +1,23 @@
+GRAFICAS Y DIAGRAMAS INTERESANTES DE CARA A LA ASOCIACION ESA:
+Grafica edad-enfermedad
+Grafica tiempo ingreso-enfermedad
+Grafica edad-tiempo ingreso
+
+Les interesa:
+-Que las cosas esten limpias
+-Que entendamos los datos
+-Como vemos los datos
+-Integracion de IA (datos generados o chatbot)
+-Contar como hemos integrado la IA al proyecto (supongo que el desarrollo contara)
+-Preparacion y validacion de los datos
+-Exploracion y analisis inicial
+-Razonamiento analitico
+-Trazabilidad del proceso
+-Cumplimineto normatico y proteccion de datos
+-Buenas practicas de seguridad, con logs y accesos restringidos
+-Graficacion de la tendencia de datos
+-Anonimizacion
+-Privacidad
+-Confidencialidad
+-Añadir seguridad a la aplicacion
+-Que sea user friendly y adaptado a discapacidades durante la integracion
